@@ -15,6 +15,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello: wadia alot, s441013748" );
+        System.out.println( "Hello: wadia, s441013748" );
     }
 }
